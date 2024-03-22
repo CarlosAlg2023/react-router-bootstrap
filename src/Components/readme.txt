@@ -1,0 +1,1 @@
+Configure los sub-directorios de sus componentes

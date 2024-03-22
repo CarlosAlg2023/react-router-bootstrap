@@ -1,0 +1,25 @@
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate-3d {
+    from {
+        transform: rotateY(0deg); /* Rotación inicial */
+    }
+    to {
+        transform: rotateY(360deg); /* Rotación completa */
+    }
+}
+
+.rotating-image {
+    animation: rotate 10s linear infinite;
+}
+
+.gir-image {
+    animation: rotate-3d 10s linear infinite; /* 10s es la duración de la animación */
+}

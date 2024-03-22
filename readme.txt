@@ -1,0 +1,1 @@
+Cambie el archivo .env según la direccion establecida por su Hosting

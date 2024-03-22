@@ -1,0 +1,1 @@
+Le recomendamos mantener sus vistas debidamente organizadas en sub-directorios para mantener el orden.

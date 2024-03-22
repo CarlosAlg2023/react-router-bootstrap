@@ -1,0 +1,20 @@
+.react-footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.react-footer ul li {
+  margin: 10px;
+}
+
+.react-footer ul li:hover {
+  transition: all linear 0.5s;
+  color: rgba(62, 241, 43, 0.894);
+}
+
+
+

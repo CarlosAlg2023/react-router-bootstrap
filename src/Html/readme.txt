@@ -1,0 +1,1 @@
+Mantenga el orden del CEO manejando sus componentes en el arbol del HTML,le recomendamos manejar la lógica de las vistas con estos componentes componentes y adiccinar la lógics necesaria para su correcto funcionamiento.

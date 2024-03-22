@@ -1,0 +1,1 @@
+Si lo desea,puede usar la estructura de configuracion de estilo para sus HTML componentes,de lo contrario puede recurrir a Css nativo para sus componentes
