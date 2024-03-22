@@ -12,3 +12,8 @@ Contacte con el desarrollador a través de sus redes sociales:
 
 - [Facebook](https://www.facebook.com/profile.php?id=100077277230596)
 - Gmail: cuenta0estable@gmail.com
+
+### Consideraciones
+
+Tenga en cuenta que el Template fue construido en su totalidad en un
+celular por un estudiante para uso personal,dudas o sugerencias comunicarlas en los contactos establecidos
